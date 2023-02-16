@@ -9,7 +9,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Front-End Structure:
 
-![image](https://user-images.githubusercontent.com/95652335/219506841-50359c83-7737-4a8e-9bcb-f86c3d487eae.png)
+Components:
+- nav.js = navigation bar with links to HomePage and CreatePage
+- row.js = defines function for a single table row
+- table.js = returns a table
+
+Pages:
+- EditPage.js = fetches and updates any entry. redirects back to homepage on successful edit
+- CreatePage.js = Adds data to the collection, redirects back to homepage on successful edit
+- HomePage.js = Displays any functions inside the database
 
 
 
