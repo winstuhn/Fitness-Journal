@@ -11,3 +11,9 @@ Picture of the Home Page:
 
 Picture of the Create Entry Page:
 ![image](https://user-images.githubusercontent.com/95652335/219506314-1a61c831-811b-49a8-8de0-3389c0504e51.png)
+
+How to run the application:
+- Import both directories
+- Open two different terminals
+- Navigate to both directorys
+- run the command: npm start
